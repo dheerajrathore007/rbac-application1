@@ -39,7 +39,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex-shrink-0">
             <h1 className="text-xl font-bold text-gray-900 dark:text-white transition-colors duration-200">
-              Admin Dashboard
+              Admin Rathore 
             </h1>
           </div>
 
